@@ -20,10 +20,10 @@ This project was completed based on given requirements.
 https://github.com/preethi827/Network-Topology-Configuration/blob/main/instructions.txt
 
 ##  Topology
-https://github.com/preethi827/Network-Topology-Configuration/blob/main/my%20main%20project.pkt
+https://github.com/preethi827/Network-Topology-Configuration/blob/main/Final-Topology%20(2).JPG
 
 ##  Output
-(Add working screenshot)
+https://github.com/preethi827/Network-Topology-Configuration/blob/main/my%20main%20project.pkt
 
 ##  Outcome
 Successfully configured and verified network connectivity.
