@@ -6,7 +6,7 @@ Instructions:
      Chennai - 25
      B'lore - 11
      Delhi - 9
-     Use the network 192.168.X.0 [ X = TASK - ID ] 
+     Use the network 192.168.70.0 [ 70 = TASK - ID ] 
       *WAN 1 = 20.0.0.0/30
       *WAN 2 = 25.0.0.0/30
       *WAN 3 = 30.0.0.0/30
