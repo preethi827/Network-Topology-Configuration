@@ -1,0 +1,47 @@
+Kindly complete the task using following instructions.
+
+Instructions:
+1. Subnetting:
+     Coimbatore - 55
+     Chennai - 25
+     B'lore - 11
+     Delhi - 9
+     Use the network 192.168.X.0 [ X = TASK - ID ] 
+      *WAN 1 = 20.0.0.0/30
+      *WAN 2 = 25.0.0.0/30
+      *WAN 3 = 30.0.0.0/30
+      *WAN 4 = X.0.0.0/30
+
+2. After completing the subnetting, Create a topology as same as the topology diagram attached in this mail using Packet Tracer.
+
+3. Configure Host name all the Routers & Switches in the topology using the name mentioned in the topology.
+
+4. Descriptions have to be set for all the used interfaces in Routers & Switches (Exclude ISP_Router).
+
+5. Have to disable Domain Lookup Process in Coimbatore & B'lore Routers and Banner have to be set for Chennai and Delhi Routers 
+
+6. Have to set Date & Time for all the Routers and Chennai & B'lore Switch. (Exclude ISP_Router).
+
+7. Configure Enable Password for Coimbatore & Delhi Routers and Chennai & B'lore Switches and encrypt the password. (Enable Password is "YOUR NAME" in small letters).
+
+8. Assign IP address for all the devices in topology including Switches using the completed subnetting. (Use the first Valid IP for all Routers and Last valid for the server we had in Delhi).
+
+9. Configure DHCP in Coimbatore and B'lore Routers to assign Dynamic IP for all the End devices in the respective locations and Assign Static for Chennai and Delhi End devices. (Pool Name: Your Fav Hero name)
+
+10. Configure SSH in Coimbatore and Delhi Routers to access the router through remote connection. (Domain Name: Your name.com & Username is your MOBILE MODEL NAME and Passwords is your last 4 digit of your mobile number)
+
+11. Configure TELNET in Chennai & Blore Switches to access the switch through remote connection. (VTY Password: Your fav dish name)
+
+12. Configure OSPF to communicate with different networks with Process ID as your TASK ID & Area number as 22 and Default Route between ISP_Router & Coimbatore Router.
+
+13. After verifying the connectivity configure ACL to block the communication between CHEPC1 and BLRPC2
+
+14. DELPC3 should not communicate with any devices in Coimbatore
+
+15. BLRPC1 should not access the webpage through CISCO-SERVER
+
+16. Configure PAT to translate addresses between ISP_Router and Coimbatore Router.
+
+17. Verify the connectivity and output.
+
+18. Copy your configuration from RAM to NVRAM.
