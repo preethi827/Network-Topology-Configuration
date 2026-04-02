@@ -17,6 +17,7 @@ Designed and configured a multi-location network using Cisco Packet Tracer.
 
 ##  Instructions
 This project was completed based on given requirements.
+https://github.com/preethi827/Network-Topology-Configuration/blob/main/instructions.txt
 
 ##  Topology
 (Add image)
