@@ -20,7 +20,7 @@ This project was completed based on given requirements.
 https://github.com/preethi827/Network-Topology-Configuration/blob/main/instructions.txt
 
 ##  Topology
-(Add image)
+https://github.com/preethi827/Network-Topology-Configuration/blob/main/my%20main%20project.pkt
 
 ##  Output
 (Add working screenshot)
